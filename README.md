@@ -63,5 +63,7 @@ cd C:... (completar con direccion del repositorio local)
 git status
 
 git add .
+
 git commit -m "comentario"
+
 git push origin main
