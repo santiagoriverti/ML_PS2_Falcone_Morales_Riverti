@@ -72,3 +72,15 @@ git add .
 git commit -m "comentario"
 
 git push origin main
+
+### Otras aclaraciones
+
+El codigo fue diseñado en Google Colab. Para reproducirlo completamente debe cargar en el entorno del mismo los siguientes archivos:
+
+1. train_personas.csv
+2. test_personas.csv
+3. train_hogares.csv
+4. test_hogares.csv
+5. tipo_var.xlsx
+
+Del 1 al 4 se encuentran el el sitio de Kaggle. El numero 5 esta disponible en la carpeta "document" de este repositorio
