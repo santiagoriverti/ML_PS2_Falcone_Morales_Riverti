@@ -7,6 +7,10 @@
 
 Este proyecto tiene como objetivo predecir la condición de pobreza de los hogares utilizando técnicas de aprendizaje automático. Se procesan y analizan datos relacionados con características de los hogares y las personas, para construir modelos predictivos que clasifiquen los hogares como pobres o no pobres. A lo largo del proyecto, se utilizan diversas metodologías para el análisis de datos, modelado y evaluación del desempeño de los modelos.
 
+El codigo esta inspirado en el concurso del Banco Mundial: https://www.drivendata.org/competitions/50/worldbank-poverty-prediction/page/97/
+
+El sitio web del concurso es: https://www.kaggle.com/competitions/mlunlp-2024-ps-2
+
 ---
 
 ## Principales Etapas del Proyecto
@@ -33,6 +37,7 @@ Este proyecto tiene como objetivo predecir la condición de pobreza de los hogar
 ---
 
 ## document
+
 Esta carpeta contiene:
   - ddi-documentation-spanish-608.pdf como documento metodologico de las encuestas
   - Etiquetas.xlsx : contiene las variables utilizadas y su explicacion
