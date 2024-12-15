@@ -43,18 +43,25 @@ Esta carpeta contiene:
 
 ### Clonar el Repositorio
 Abrir cmd
+
 cd C:... (completar con directorio local)
+
 git clone https://github.com/santiagoriverti/ML_PS2_Falcone_Morales_Riverti.git
 
 ### Actualizar repositorio local
 Abrir cmd 
+
 cd C:... (completar con direccion del repositorio local)
+
 git pull
 
 ### Actualizar repositorio remoto en rama principal
 Abrir cmd
+
 cd C:... (completar con direccion del repositorio local)
+
 git status
+
 git add .
 git commit -m "comentario"
 git push origin main
